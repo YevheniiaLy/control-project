@@ -1,4 +1,4 @@
-import CurrencyButton from 'components/CurrencyButton/CurrencyButton'
+
 import ProductsList from 'components/Products/ProductsList'
 import Total from 'components/Total/Total'
 import { useState } from 'react'
